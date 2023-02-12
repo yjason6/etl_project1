@@ -1,0 +1,5 @@
+set api_key=TyfX4zH87A9CmeZI7CUWHpCayinLIXKF
+set db_user=postgres
+set db_password=postgres
+set db_server_name=localhost
+set db_database_name=postgres
