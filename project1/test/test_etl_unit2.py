@@ -1,4 +1,4 @@
-from project1.etl import extract as Extract
+from etl import extract as Extract
 import pandas as pd
 import os
 

@@ -1,4 +1,4 @@
-from project1.etl import transform as Transform
+from etl import transform as Transform
 import pandas as pd
 
 def test_transform():

@@ -1,4 +1,4 @@
-from project1.database.postgres import PostgresDB
+from database.postgres import PostgresDB
 import datetime as dt 
 from sqlalchemy import Table, Column, Integer, String, MetaData, Float, JSON
 from sqlalchemy import insert, select, func
